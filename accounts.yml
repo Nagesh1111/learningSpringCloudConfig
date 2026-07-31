@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to the EazyBank Details"
+  contactDetails:
+    name: "Nagesh"
+    mail: "nagesh123@gmail.com"
+  onCallSupport:
+    - 9100803690
+    - 1234456666

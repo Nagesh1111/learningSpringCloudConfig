@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to the QA EazyBank Details"
+  contactDetails:
+    name: "Nagesh"
+    mail: "nageshQA123@gmail.com"
+  onCallSupport:
+    - 9100803690
+    - 1234456666

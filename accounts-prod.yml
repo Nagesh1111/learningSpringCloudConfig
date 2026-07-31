@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to the PROD EazyBank Details"
+  contactDetails:
+    name: "Nagesh"
+    mail: "nageshPROD123@gmail.com"
+  onCallSupport:
+    - 9100803690
+    - 1234456666

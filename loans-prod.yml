@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+
+loans:
+  message: "Welcome to the Loans PROD APIS"
+  contactDetails:
+    name: "Nagesh"
+    mail: "n123@gmail.com"
+  onCallSupport:
+    - "12233"
+    - "122"
