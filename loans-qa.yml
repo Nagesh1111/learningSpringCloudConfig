@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to the Loans QA APIS"
+  message: "Welcome to the Loans SPRING CLOUD BUS QA APIS"
   contactDetails:
     name: "Nagesh"
     mail: "n123@gmail.com"
